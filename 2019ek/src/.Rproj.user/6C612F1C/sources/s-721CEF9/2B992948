@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556620676318.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2B992948",
+    "lastKnownWriteTime" : 1557748132,
+    "last_content_update" : 1557748132435,
+    "path" : "~/Reaktor/vaalikoneet/2019ek/src/governments.R",
+    "project_path" : "governments.R",
+    "properties" : {
+        "cursorPosition" : "29,45",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556629070155.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6A144F7E",
+    "lastKnownWriteTime" : 4601964032,
+    "last_content_update" : 1556629070155,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "162774AA",
+        "caption" : "governments",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=governments&cache_key=162774AA",
+        "displayedObservations" : "30",
+        "environment" : "",
+        "object" : "governments",
+        "preview" : "0",
+        "totalObservations" : "30",
+        "variables" : "16"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

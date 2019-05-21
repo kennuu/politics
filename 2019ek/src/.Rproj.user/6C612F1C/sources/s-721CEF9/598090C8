@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556620712072.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3542102375",
+    "id" : "598090C8",
+    "lastKnownWriteTime" : 1552488420,
+    "last_content_update" : 1552488420,
+    "path" : "~/Reaktor/vaalikoneet/hs2019ek/src/visualizematches.R",
+    "project_path" : "visualizematches.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
